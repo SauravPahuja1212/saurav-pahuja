@@ -115,4 +115,17 @@ I am always eager to take on challenging projects and look forward to contributi
 - Oracle Certified Java Associate (OCAJP 8)
 - Oracle Certified Professional (OCP)
 - Oracle Certified Associate (OCA)
-- Oracle Certified Expert (O
+- Oracle Certified Expert (OCE)
+
+## Education
+
+- **B.Sc. (IT)**, Lovely Professional University, Jalandhar (Expected 2023)
+- **B.Com**, Kurukshetra University, Kurukshetra (2016)
+- **12th Grade**, HBSE, Haryana (2012)
+- **10th Grade**, HBSE, Haryana (2010)
+
+## Personal Details
+
+- **Date of Birth:** December 14, 1995
+- **Languages:** Fluent in English, Hindi, Haryanvi, and Punjabi
+- **Address:** 1918 Old Post Office Street, Ismailabad, Kurukshetra - 136129
